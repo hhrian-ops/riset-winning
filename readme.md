@@ -1,0 +1,4 @@
+butuh 
+
+streamlit
+google-generativeai
